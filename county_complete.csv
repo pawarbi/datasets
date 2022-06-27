@@ -1,0 +1,13 @@
+Metro counties:
+1 (Counties in metro areas of 1 million population or more)
+"2 (Counties in metro areas of 250,000 to 1 million population)"
+"3 (Counties in metro areas of fewer than 250,000 population)"
+Nonmetro counties:
+"4 (Urban population of 20,000 or more, adjacent to a metro area)"
+"5 (Urban population of 20,000 or more, not adjacent to a metro area)"
+"6 (Urban population of 2,500 to 19,999, adjacent to a metro area)"
+"7 (Urban population of 2,500 to 19,999, not adjacent to a metro area)"
+"8 (Completely rural or less than 2,500 urban population, adjacent to a metro area)"
+"9 (Completely rural or less than 2,500 urban population, not adjacent to a metro area)"
+88 (Unknown-Alaska/Hawaii State/not official USDA Rural-Urban Continuum code)
+99 (Unknown/not official USDA Rural-Urban Continuum code)
